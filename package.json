@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Reffx/airdrop-solana/issues"
   },
-  "homepage": "https://github.com/Reffx/airdrop-solana#readme"
+  "homepage": "https://github.com/Reffx/airdrop-solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.39.1"
+  }
 }
